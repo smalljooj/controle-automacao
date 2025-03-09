@@ -16,35 +16,29 @@ Repositório contendo material de estudo e simulações práticas dos capítulos
 
 ## 📖 Capítulos Estudados
 
-### **Capítulo 4: Características de Sistemas de Controle Realimentados**
-- **Estudo Teórico**: [./notebooks/estudo_cap4.ipynb](./notebooks/estudo_cap4.ipynb)  
-- **Simulações**: [./notebooks/simulacoes_cap4.ipynb](./notebooks/simulacoes_cap4.ipynb)  
-  *Tópicos*: Estabilidade, erro em regime permanente, resposta transitória.
+### **Capítulo 4: Características de Sistemas de Controle com retroação**
+- **Estudo Teórico**: [Estudo](./notebooks/estudo_cap4.ipynb)  
+- **Simulações**: [Simulação](./notebooks/simulacoes_cap4.ipynb)  
 
-### **Capítulo 5: Modelagem em Espaço de Estados**
-- **Estudo Teórico**: [./notebooks/estudo_cap5.ipynb](./notebooks/estudo_cap5.ipynb)  
-- **Simulações**: [./notebooks/simulacoes_cap5.ipynb](./notebooks/simulacoes_cap5.ipynb)  
-  *Tópicos*: Representação SS, controlabilidade, observabilidade.
+### **Capítulo 5: O desempenho de sistemas de Controle com retroação**
+- **Estudo Teórico**: [Estudo](./notebooks/estudo_cap5.ipynb)  
+- **Simulações**: [Simulação](./notebooks/simulacoes_cap5.ipynb)  
 
-### **Capítulo 6: Projeto via Lugar das Raízes**
-- **Estudo Teórico**: [./notebooks/estudo_cap6.ipynb](./notebooks/estudo_cap6.ipynb)  
-- **Simulações**: [./notebooks/simulacoes_cap6.ipynb](./notebooks/simulacoes_cap6.ipynb)  
-  *Tópicos*: Técnicas de root locus, projeto de compensadores.
+### **Capítulo 6: A estabilidade de sistemas lineares com retroação**
+- **Estudo Teórico**: [Estudo](./notebooks/estudo_cap6.ipynb)  
+- **Simulações**: [Simulação](./notebooks/simulacoes_cap6.ipynb)  
 
-### **Capítulo 7: Projeto no Domínio da Frequência**
-- **Estudo Teórico**: [./notebooks/estudo_cap7.ipynb](./notebooks/estudo_cap7.ipynb)  
-- **Simulações**: [./notebooks/simulacoes_cap7.ipynb](./notebooks/simulacoes_cap7.ipynb)  
-  *Tópicos*: Diagramas de Bode/Nyquist, margens de estabilidade.
+### **Capítulo 7: O método do lugar das raízes**
+- **Estudo Teórico**: [Estudo](./notebooks/estudo_cap7.ipynb)  
+- **Simulações**: [Simulação](./notebooks/simulacoes_cap7.ipynb)  
 
-### **Capítulo 10: Controle Digital**
-- **Estudo Teórico**: [./notebooks/estudo_cap10.ipynb](./notebooks/estudo_cap10.ipynb)  
-- **Simulações**: [./notebooks/simulacoes_cap10.ipynb](./notebooks/simulacoes_cap10.ipynb)  
-  *Tópicos*: Transformada Z, discretização, controladores PID digitais.
+### **Capítulo 10: O projeto de Sistemas de controle com retroação**
+- **Estudo Teórico**: [Estudo](./notebooks/estudo_cap10.ipynb)  
+- **Simulações**: [Simulação](./notebooks/simulacoes_cap10.ipynb)  
 
-### **Capítulo 13: Sistemas de Controle Avançados**
-- **Estudo Teórico**: [./notebooks/estudo_cap13.ipynb](./notebooks/estudo_cap13.ipynb)  
-- **Simulações**: [./notebooks/simulacoes_cap13.ipynb](./notebooks/simulacoes_cap13.ipynb)  
-  *Tópicos*: Controle adaptativo, sistemas não lineares, aplicações práticas.
+### **Capítulo 13: Sistemas de controle digital**
+- **Estudo Teórico**: [Estudo](./notebooks/estudo_cap13.ipynb)  
+- **Simulações**: [Simulação](./notebooks/simulacoes_cap13.ipynb)  
 
 ---
 
@@ -54,5 +48,3 @@ Repositório contendo material de estudo e simulações práticas dos capítulos
   - `control` (para análise de sistemas de controle)
   - `numpy`, `matplotlib` (cálculo numérico e visualização)
 - **Ambiente**: Jupyter Notebook
-
----
